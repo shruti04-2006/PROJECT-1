@@ -8,7 +8,7 @@ To uncover insights from YouTube’s trending videos by analyzing engagement met
 ## 🛠 Tools & Technologies
 - **Python** (Pandas, TextBlob, Matplotlib, Seaborn)
 - **SQL** (SQLite, pandasql)
-- **Tableau** for dashboard & story point creation
+- **Tableau** for dashboard
 
 ## 📂 Dataset
 - Trending video data from different countries (source: Kaggle)
@@ -41,5 +41,5 @@ To uncover insights from YouTube’s trending videos by analyzing engagement met
 
 ---
 
-**Note:** For a detailed walkthrough, see the `/notebooks`, `/data`, and `/tableau` directories.
+**Note:** For a detailed walkthrough, see the notebooks, data, and tableau directories.
 ### By Shruti Shivankar
